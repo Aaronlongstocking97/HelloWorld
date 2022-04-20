@@ -1,24 +1,21 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+{This is a small project that showcases a basic start to the understanding of the C++ language.}
 
-{Provide a description of your software}
+{This software is written in C++ and it uses the main driver function to display "Hello World"}
 
-{Describe your purpose for creating this software.}
+{The purpose for this software is to begin my understanding of using C++}
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+- [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+{The tools I used to develop this software were Visual Studio Code and the C++ extension as a debugger}
 
-{Describe the programming language that you used}
+{The programming language that I used was C++}
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Web Site Name](https://www.w3schools.com/cpp/cpp_syntax.asp)
