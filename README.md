@@ -18,4 +18,4 @@
 
 # Useful Websites
 
-- [Web Site Name](https://www.w3schools.com/cpp/cpp_syntax.asp)
+- [w3schools](https://www.w3schools.com/cpp/cpp_syntax.asp)
